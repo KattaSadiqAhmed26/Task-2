@@ -1,4 +1,4 @@
-# Data Story: Sales Analysis for Blinkit Outlets  
+# Data Story: Sales Analysis for Blinkit Outlets (Task2) 
 I Had Created an Data Visuals for my sales Data of BlinIt Grocery Store.  
 I created one Story Insight where I mention About everything.  
 Where we lacking of and where wer need to Focus and on which market trend and on which trending product.  
